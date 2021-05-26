@@ -15,12 +15,12 @@ a{
     grid-template-columns: 200px 200px 200px;
     grid-template-rows: 150px 150px 150px;
     grid-row-gap: 50px;
-    grid-column-gap: 100px;
+    grid-column-gap: 50px;
 }
 
 .item {
     display: flex;
-    font-size: 2em;
+    font-size: 1.5em;
     text-align: center;
     align-items: center;
     justify-content: center;
